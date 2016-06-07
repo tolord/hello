@@ -14,6 +14,7 @@ int main(int argc, const char * argv[]) {
     
     for (int i=0; i<100; ++i) {
         printf("hello，world");
+        printf("hello");
     }
     return 0;
 }
